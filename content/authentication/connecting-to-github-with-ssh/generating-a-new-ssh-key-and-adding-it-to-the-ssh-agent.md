@@ -8,7 +8,7 @@ redirect_from:
   - /github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
   - /github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 versions:
-  fpt: '*'
+  fpt: '*' shh
   ghes: '*'
   ghae: '*'
   ghec: '*'
